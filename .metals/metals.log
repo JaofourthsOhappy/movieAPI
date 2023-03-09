@@ -4517,3 +4517,779 @@ Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.s
 	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
 	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
 	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:30:53 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:30:54 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:30:54 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:30:55 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:30:57 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:30:58 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:31:28 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:31:29 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:31:31 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:31:32 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:31:33 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:31:34 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:31:35 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:31:36 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:31:37 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:31:37 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:31:39 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:31:39 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:31:41 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:31:41 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:31:45 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:31:45 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:31:46 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:31:46 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:31:54 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:31:54 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:31:55 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:31:56 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:32:00 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:32:04 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:32:05 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:32:15 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:32:16 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:32:16 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:32:17 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:32:20 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:32:20 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:32:22 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:32:22 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:32:25 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:32:25 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:32:31 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:32:32 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:32:33 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:32:34 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:32:39 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:32:41 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:32:41 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:32:45 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:32:45 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:33:15 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:33:16 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:33:17 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:33:17 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:33:19 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:33:19 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:33:21 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:33:21 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:33:34 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:33:35 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:33:46 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:33:46 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:33:50 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:33:51 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:33:54 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:33:54 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:33:55 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:33:56 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+Mar 09, 2023 1:33:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5294
+2023.03.09 13:33:59 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:34:00 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:34:21 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:34:22 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:34:24 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:34:25 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:34:27 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:34:28 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:34:30 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:34:31 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:34:39 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:34:40 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:34:41 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:34:41 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:34:47 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:34:48 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:34:59 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:35:00 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:35:04 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:35:05 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:35:07 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:35:07 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:35:24 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/Movie.java
+2023.03.09 13:35:25 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/Movie.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:35:26 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/Movie.java
+2023.03.09 13:35:26 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/Movie.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:35:27 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/Movie.java
+2023.03.09 13:35:28 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/Movie.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:44:26 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:44:27 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:44:31 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:44:31 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+Mar 09, 2023 1:44:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5670
+2023.03.09 13:44:44 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:44:45 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:44:54 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:44:54 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:44:55 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:44:55 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:44:58 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:44:58 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:45:03 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:45:04 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:45:07 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:45:07 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:45:08 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:45:08 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:45:16 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:45:17 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:45:23 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:45:24 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:45:25 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:45:25 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:45:27 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:45:27 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:45:33 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:45:33 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:45:36 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:45:37 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:45:41 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:45:42 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:45:44 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:45:44 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:45:47 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:45:47 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:45:49 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:45:49 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:45:55 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:45:56 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:45:57 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:45:57 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:46:02 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:46:03 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:46:06 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:46:06 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:46:10 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:46:10 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:46:12 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:46:13 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:46:19 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:46:20 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:46:29 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:46:30 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:46:33 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:46:34 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:46:58 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:46:58 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+2023.03.09 13:46:59 WARN  no build target for: /Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java
+2023.03.09 13:47:00 WARN  Running javac-semanticdb failed for file:///Users/jaofourthsohappy/Desktop/movies2/src/main/java/dev/fourth/movies/MovieController.java. Output:
+Exception in thread "main" java.lang.IllegalAccessError: class com.sourcegraph.semanticdb_javac.SemanticdbPlugin (in unnamed module @0x4cb2c100) cannot access class com.sun.tools.javac.api.BasicJavacTask (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.api to unnamed module @0x4cb2c100
+	at com.sourcegraph.semanticdb_javac.SemanticdbPlugin.init(SemanticdbPlugin.java:19)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugin(BasicJavacTask.java:255)
+	at jdk.compiler/com.sun.tools.javac.api.BasicJavacTask.initPlugins(BasicJavacTask.java:229)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:292)
+	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:176)
+	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
