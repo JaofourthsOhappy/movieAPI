@@ -3,6 +3,7 @@ package dev.fourth.movies;
 import org.bson.types.ObjectId;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
+import org.springframework.data.mongodb.core.mapping.DocumentReference;
 import java.util.List;
 import lombok.Data;
 import lombok.AllArgsConstructor;
@@ -30,4 +31,7 @@ public class Movie {
     private List<String> genres;
 
     private List<String> backdrops;
+
+    @DocumentReference
+    private List<Review> reviewIds;
 }
