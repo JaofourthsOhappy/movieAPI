@@ -14,14 +14,11 @@ import java.util.List;
 public class MovieController {
 
     @Autowired
-    private MovieService moviesService;
+    private MovieService movieService;
+    
     @GetMapping
-    // public String allmovies(){
-    //     return "All movies!!!";
-    // }
-
     public ResponseEntity<List<Movie>> getAllMovies(){
-        return new ResponseEntity<List<Movie>>(moviesService.allMovies(),HttpStatus.OK);
+        return new ResponseEntity<List<Movie>>(movieService.allMovies(),HttpStatus.OK);
     }
 }
  
