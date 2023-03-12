@@ -4,7 +4,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import java.util.List;
 import java.util.Optional;
-import org.bson.types.ObjectId;
+// import org.bson.types.ObjectId;
 
 @Service
 public class MovieService {
@@ -16,7 +16,7 @@ public class MovieService {
         return moviesRepository.findAll();
     }
 
-    public Optional<Movie> singleMovie(ObjectId id){
-        return moviesRepository.findById(id);
+    public Optional<Movie> singleMovie(String ImdbId){
+        return moviesRepository.findMovieByImdbId(ImdbId);
     }
 }
